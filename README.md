@@ -1,15 +1,18 @@
 Flask Email Trigger App
 
 **Introduction**
+
 This Flask web application sends an email when a specific endpoint is accessed. I use it to initiate a quest for my lovely Nas'ka
 
 **Features**
+
 Flask web server for handling HTTP requests.
 Email sending functionality via SMTP.
 Configurable through external configuration files for enhanced security.
 Ready for manual setup and deployment to cloud platforms like Heroku.
 
 **Prerequisites**
+
 Before you start, ensure you have:
 
 Python 3.6 or higher installed.
